@@ -11,3 +11,5 @@ quii
 w
 write exit
    exit
+e
+rxit
